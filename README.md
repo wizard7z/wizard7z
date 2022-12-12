@@ -1,12 +1,5 @@
-## Hi, I’m [@CyberCaliphate🦅](https://youtube.com/@cybercaliphate420)
+## Hi, I’m [@CyberCaliphate🦅](https://instagram.com/cyber._.caliphate420)
 
-🔭 I’m currently working on [PrivaChat](https://github.com/cybercaliphate420) 
-
-🌱 I’m currently learning Arch Linux
-
-👯 I’m looking to collaborate on Github
-
-📫 How to reach me: [Telegram](http://t.me/nightfury090)
 <p align="center"><img src="https://i.imgur.com/mp5JwKO.png" alt="Bt">
 </p>
 <p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
