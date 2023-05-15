@@ -7,6 +7,6 @@
 <a href="https://tinyurl.com/y7bn3e3c"><img title="YouTube" src="https://img.shields.io/badge/Cyber-Caliphate-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://tinyurl.com/bdh25amw"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Cyber Caliphate-red?style=for-the-badge&logo=Youtube"></a>
 <p align="center">
-<a href="https://shorturl.at/kls02"><img title="Instagram" src="https://img.shields.iowizard.7z/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
+<a href="https://shorturl.at/kls02"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 <p align="center"> 
 <a href="https://tinyurl.com/yc6dehyp"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
